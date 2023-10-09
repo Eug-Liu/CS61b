@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\LiuChenhe\\Desktop\\cs61b\\CS61b\\library-sp18\\javalib\\algs4.jar",
+        "c:\\Users\\LiuChenhe\\Desktop\\cs61b\\CS61b\\library-sp18\\javalib\\hamcrest-core-1.3.jar",
+        "c:\\Users\\LiuChenhe\\Desktop\\cs61b\\CS61b\\library-sp18\\javalib\\jh61b.jar",
+        "c:\\Users\\LiuChenhe\\Desktop\\cs61b\\CS61b\\library-sp18\\javalib\\junit-4.12.jar",
+        "c:\\Users\\LiuChenhe\\Desktop\\cs61b\\CS61b\\library-sp18\\javalib\\stdlib.jar",
+        "c:\\Users\\LiuChenhe\\Desktop\\cs61b\\CS61b\\library-sp18\\javalib\\stdlib-package.jar"
+    ]
+}
