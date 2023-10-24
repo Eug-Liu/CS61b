@@ -9,7 +9,7 @@ public class TestRandomRoom {
     private static int WIDTH = Game.WIDTH;
     private static int HEIGHT = Game.HEIGHT;
     private static TERenderer ter = new TERenderer();
-    private static int SEED = (int) System.currentTimeMillis();
+    private static long SEED = System.currentTimeMillis();
     public static void main(String args[]){
         ter.initialize(WIDTH, HEIGHT);
         TETile[][] world = new TETile[WIDTH][HEIGHT];

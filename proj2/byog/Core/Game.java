@@ -70,7 +70,7 @@ public class Game {
         }
         String str = sb.toString();
         System.out.println(str);
-        final int seed = Integer.parseInt(str);
+        final long seed = Long.parseLong(str);
         return new Random(seed);
     }
 
