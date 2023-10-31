@@ -3,7 +3,7 @@ package byog.Core;
 import byog.TileEngine.TETile;
 
 public class TestplayWithString {
-    private static final String START = "455857754086099036";
+    private static final String START = "5197880843569031643";
 
     public static void main(String args[]){
         Game game = new Game();
